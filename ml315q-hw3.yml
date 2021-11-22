@@ -1,0 +1,9 @@
+name: ml315q-hw3
+channels:
+  - defaults
+dependencies:
+  - python=3.9.2
+  - numpy
+  - pandas
+  - jupyter
+  - matplotlib
